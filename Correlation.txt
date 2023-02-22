@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-04-09T12:27:19+01:00
+
+==== Correlation ====
+Created Thursday 09 April 2020
+@GEOLOGY @ESH  @YEAR1 
+Match and link units of similar lithology
+
+Identify depositional environment → draw @correlation lines between @facies → make interpretation
+
+Specific lithologies are deposited in limited areas because of the limited lateral extent of the depositional environments.
+
+== Walther's law of Correlation ==
+@Walthers_law_of_facies_correlation 
+Only works if the sedimentation is uninterrupted, but all successions have minor @unconformities → successions are never 100% unbroken 

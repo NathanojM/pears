@@ -1,0 +1,110 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-01-26T11:09:25+00:00
+
+==== Fossils ====
+Angelegt Sunday 26 January 2020
+@MRF @GEOLOGY @fossils @ESH @YEAR1 
+
+== Prebiotic Processes ==
+@Chemosynthesis Oragnic molecules → @DNA → membrane enclosed organelles → true cells 
+@Miller_Urey experiment focussed on the atmosphere
+@Sugar_Synthesis
+
+Bigger organic molecules have been found in interstellar space and other planets → chemosynthesis was not confined to earth
+What is life? What are we looking for in @SETI 
+
+== First life forms ==
+The @Isua Gneiss and @RuBisCo was the first evidence of 'life', with much @debate to its origin
+
+== Tree of life ==
+@tree_of_life 
+{{./pasted_image001.png}}
+@LUCA is at the centre and the branches represent genetic differences, getting further away from LUCA
+@Eukaryotes are a very large group (containing humans)
+
+== Archea ==
+@Archea are the most closely related to LUCA → most primitive and therefore ancient beings
+Microscopic
+
+@extremophiles: 
+	* cope with sedimentary pressure, 
+	* @halophiles can live in pure brine. They drink the moisture film in between the salt crystals, which is the only water they need.
+	* @therophiles live in hot springs in @yellowstone . The record is 113° 
+	* @cryophiles have very slow metabolic rates but survive on the nutrient supply alone. Like the halophiles, they drink the water between the ice crystals.
+	* @Acidophiles can survive in concentrated acids.
+
+Archea were discovered in hospitals when surgeons tried to sterilise surgical equipment but caused the thermophiles to reproduce in the high heat
+Archea live in environments do extreme that it constantly damages their DNA → they have @Enzymes to repair it rapidly. → used in @cancer research. This protection could have protected them in space if @Panspermia is true.
+
+Some can break down @hydrocarbons causing problems for crude oil extraction
+The question is have they always been down there, or have these environments been contaminated by drill bits?
+It is accepted that they have always been part of the deep @biosphere
+Perhaps this is where life originated from - the @deep_life_hypothesis 
+
+== Prokaryotes → Eukaryotes ==
+@history 
+@Endosymbiosis was proposed by @Willhelm_Schimper but his textbook was largely ignored
+@Lynn_Margulis independently formulated the same idea
+
+{{./pasted_image010.png?width=300}}{{./pasted_image011.png?width=300}}{{./pasted_image012.png?width=300}}
+
+
+
+
+A Prokaryote ate anaerobic bacteria and it became mitochondria for the cell. The cell gave the bacteria shelter, and the bacteria gave the cell energy, making primitive animal cells.
+ Followed by @Cyanobacteria which then became chloroplasts, making primitive plant cells.
+The development forked at the mitochondria stage to make animal and plant cells → plants are further evolved than we are
+It is believed that all cells originate from @serial_Endosymbiosis 
+
+@Prokaryotes have no organelles - the cell contents floats freely in the @cytoplasm ≠ @Eukaryotes which have complex internal @compartmentalisation 
+Modern cell @organelles have two membranes:
+* The cell surface membrane of the cell that was eaten
+* The one the hunter cell made around it for compartmentalisation.
+
+@Endosymbiosis is not @Darwinism , more like @Lamark if the changes are acquired in the organism's lifetime.
+
+===== Darwin's Dilemma =====
+* @Darwin faced @Darwins_Dilema; the fossil record was incomplete but there was an @anogenetic trend (progress towards more complex life)
+* Darwin couldn't work out why if going back in time produced more primitive life why there was no fossil record at the beginning of the @phanerozoic . 
+* Neither microbial life or the @cambrian_explosion  had not been discovered yet. 
+* He predicted a linear relationship between ancestor and descendent - that everything must be preceded by something more primitive.
+* His dilemma was: 'where are the ancestors of the Trilobites?'
+* He said that the older a rock is, the higher the change it no longer existsm due to @metamorphic activity and @tectonic @overprint
+* Multicellular life didn't emerge until the @ediacaran 
+
+
+
+
+== Oldest Fossils ==
+* The oldest @fossils might be at @apex_chert in Australia
+* Because it is the first, the strata can't be dated. The @chert can't be dated but the volcanic lava around it can.
+* Estimated to be ~3465 Ga old ( @archean ) 
+* Much @debate over whether they are prokaryote fossils or nothing at all
+* Segmented structures could be microfossils of remains of cellular subdivisions or filamentous cyanobacteria fossils. @Cyanobacteria have lots of different @morphotypes , but some of the 'fossils' showed branching structures which @Prokaryotes are known not to be able to do
+* @Cyanobacteria ≠ Hetrotrophic bacteria
+{{./pasted_image014.png?height=500}}{{./pasted_image013.png?height=500}}
+
+
+
+== Stromatolites ==
+The next oldest evidence of life are the @stromatolites
+Aged at 3.40 Ga, there's not much time between this and the Apex Chert 
+
+
+== Gunflint Flora ==
+@Gunflint @chert deposits ({{./equation001.png}})
+Very high biodiversity
+Wide array of fossils (mostly prokaryotic and archeans)
+No Eukaryotes found
+@Colonial alage were found (where cells live in a wheel shape around each other - see B below)
+Very high silica content -> @sicilification (minerals being replaced by {{./equation002.png?type=equation}})
+Proper multicellular life didn't appear until the neoproterzoic
+
+{{./pasted_image004.png?width=450}}
+
+== Grypania ==
+@Grypania are the first macroscopic fossils
+{{./pasted_image005.png?width=600}}
+
+

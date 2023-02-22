@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-02-14T16:46:38+00:00
+
+====== Tafornomical Conditions ======
+Created Tuesday 14 February 2023
+@GEOLOGY @paleontology @YEAR4 @Fossils 
+
+A very small fraction of biomass is fossilised (0.1-1%)
+Even mass accumulations only have 2-3%
+
+@taphonomy is the study of how things are fossilised
+Fossilisation needs anoxic or @euxinic conditions which prevents scavengers from eating the organism.
+@Silicification is the process where the Silica in @diagenesis fluids replaces the organic matter.
+
+
+

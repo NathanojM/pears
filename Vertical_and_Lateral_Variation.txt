@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-04-09T10:56:11+01:00
+
+=== Vertical and Lateral Variation ===
+Created Thursday 09 April 2020
+@GEOLOGY @ESH @YEAR1 
+
+== Stratigraphic Cycles ==
+We see the sum of 1st, 2nd and 3rd order stratigraphic cycles that impact @sea_level
+
+The amount of time the cycle takes is proportional to the amount of sea level rise in metres.
+
+* 1st order: 	100s of Ma - @Wilson_Cycle and the breakup/ joining of supercontinents
+* 2nd order: 	10s of 	Ma - volume of magma produced at @mid_ocean_ridges → more sea floor spreading
+* 3rd order: 	1-10 	Ma - small changes in Earth's shape → small sea level changes
+* 4th order:	2-5 	Ma - glaciers
+
+== Stratigraphy ==
+Majority of sediments in the fossil record are marine because accommodation space controls the rate of accumulation.
+No space → no deposition
+
+The base level depends on the balance between erosion and deposition
+Generally erosion happens on land and deposition happens in the ocean, but erosion can happen below sea level:
+	* Storms → erosion of continental shelf
+	* Downcutting → canyon formation
+	* Deep sea currents → erosion of sea floor
+
+The stratographic record is very incomplete because of high levels of erosion → there are more gaps than there is record.
+
+== Base level of aggradation ==
+The @Aggradation base level is the level above which sediments can't accumulate permanently 

@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-02-14T17:09:39+00:00
+
+====== Stromatolites ======
+Created Tuesday 14 February 2023
+@GEOLOGY @paleontology  @YEAR4
+
+== Stromatolites ==
+The next oldest evidence of life are the @stromatolites
+Aged at 3.40 Ga, there's not much time between this and the Apex Chert 
+
+
+* "Laminated Cauliflower Structures"
+* Biosedimentary structures **≠≠≠** fossils
+* @stromatolites are very long ranging fossils → useless as @Index_Fossils 
+* Not controlled by time, but by paleoenvironmental conditions: amount of sunlight, nutrient avaliability
+* Cyanobacteria are often found underneath stromatolites
+* There was @debate about whether @Crytozoon were stromatolites or animal fossils
+* They can form from {{./equation003.png?type=equation}}
+ precipitated from @Prokaryotes , but they can be made abiotically.
+* Come from shallow marine environments that the cyanobacteria need → @microbial_mat on the sea floor → changes pH of water → {{./equation.png?type=equation}}
+ ppts out of solution → covers mat → mat oozes out frun underneath and covers limestone.
+{{./pasted_image003.png}}
+
+**Stromatolite structure:**
+1. Growth Surface made of @Cyanobacteria gets the most sunlight
+2. @undermat of photosynthetic bacteria still gets some light.
+3. Oxgen depleted zone of anaerobic bactera, @Archea and @extremophiles 
+{{./pasted_image015.png}}
+The layers are microecosystems which energy down the layers.
+
+1. The water is a saturated solution of  {{./equation001.png?type=equation}}
+2. When it's made alkaline by the microbial activity, the  {{./equation002.png?type=equation}}
+ precipitaes out
+3. The microbes use the new layer of  {{./equation004.png?type=equation}}
+ as a substrate and settle on the new surface
+
+{{./pasted_image017.png}}
+
+Stromatolites generate their own reducing conditions.
+The reduction of @uranium 6, which is found naturally in the seawater, causes it to precipitate out and become embedded in the stromatolite.
+
+**Shapes**
+Stromatolites come in lots of different shapes, or a combination of many.
+{{./pasted_image.png}}
+Flat stromatolites indicate a stable water column and depth.
+When the sea level rises, the photo zone tries to catch up and makes more layers

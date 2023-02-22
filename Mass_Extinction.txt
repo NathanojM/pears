@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-02-10T16:30:19+00:00
+
+=== Mass Extinction ===
+Created Monday 10 February 2020 
+@GEOLOGY @ESH  @YEAR1 
+5 major mass extinctions
+
+The largest ever @mass_extinction event was the @permian_extinction
+90-96% of all species lost
+
+**Ordovician - Silurian extinction** was climate change induced:
+Global cooling → sea levels fall → continental shelves exposed → marine creatures suffocated
+70% of all species lost
+
+**Devonian - Carboniferous extinction**
+Series of extinctions over 20 million years → 70% of species lost
+
+**Triassic - Jurassic extinction	**
+Lost 70-75%, leaving @dinosaurs with no competition
+
+**Cretacious - Paleogene extinction or 'K/Pg'**
+//The K comes from the German 'Kriede' meaning Cretacious//
+Demise of the Dinosaurs
+Lost 75%
+
+We are in the @sixth_extinction 
+
+Extinctions open up new @niches 
+Without death there can be no evolution and therefore no new life.
+
+===== Anaerobic mass extinction =====
+@anaerobic 
+@Anaerobic_mass_extinction = the @great_oxidation_event  
+
+The evolution of organisms using @photosynthesis produced @oxygen which is toxic to anaerobes. This was a long and drawn out process over hundreds of millions of years and resulted in anaerobes retreating into more extreme and enoxic places → more specific niches.
+{{./pasted_image.png?width=500}}
+
+There are still @Enzymes in us that are very sensitive to oxygen, and our @telomere shorten with age from oxidation.

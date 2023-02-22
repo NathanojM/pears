@@ -1,0 +1,158 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-02-17T11:16:20+00:00
+
+====== Cambrian Explosion ======
+Created Friday 17 February 2023
+@GEOLOGY @paleontology  @YEAR4
+
+@cambrian @cambrian_explosion 
+
+The onset of the @phanerozoic saw the sudden appearance of more complex life, although this actually bagan in the @Precambrian 
+
+The @cambrian_explosion is also known as the @biological_big_bang 
+
+It is actually a series of multiple events:
+1. The 'Cambrian' Explosion was a small @bioradiation event which started in the late @Precambrian and lasted 40 million years. @Biomineralisation emerged and the first animals with hard Phosphatic skeletons appeared
+2. The @Great_Ordovician_Biodiversification_event or @GOBE which happened in the @Ordovician and saw the mass diversification of families 
+3. ?
+
+They are not the same event. @GOBE saw a much faster rate of evolution and much greater number of species than the Cambrian event.
+
+===== Rate of evolution =====
+{{./pasted_image.png?width=600}}
+* @evolution reached a plateau after the Ordovician → the rate of @extinction was in equilibrium with the rate of evolution in a @Punctuated_equilibrium 
+* It stayed that way until the @permian_extinction
+* However, bioradiation has been steadily rising since the @Triassic without reaching an @evolutionary_plateau → @eco_space is being used more effectively → more diversification
+* After the @permian_extinction extinction stopped opening new @niches → evolution accelerates 
+
+{{./pasted_image001.png?width=600}}
+The Precambrian is on the left, the Ordovician on the right
+
+===== The Burgess Shale =====
+* The @Burgess_shale has some quite bizarre fossils, some of which are failed evolutionary experiments, and some are ancient versions of modern fauna.
+* Unlike other sites, it has organic preservation of soft body parts (arms and legs etc.) because the @Turbidity_currents 'sealed' the environment and made it a @reducing_environment 
+
+===== Causes of diversification =====
+
+==== Ecological causes ====
+The emergence of predators caused prey to adapt for protection: they developed shells, spines and means of locomotion.
+Those that couldn't adapt went extinct or migrated elsewhere.
+{{./diagram.png?type=diagram}}
+
+Global cooling → migration towards the equator.
+Those adapted to the cold will diversify and those adapted to the warm will decline.
+{{./diagram001.png?type=diagram}}
+
+@Pollinators and @flowers @co_evolve 
+If the flowers go extinct, then they will drag the bees down with them
+If the flowers evolve, so do the bees.
+
+==== Geological causes ====
+* When the atmosphere was oxygenated in the @great_oxidation_event , the @oxygen went into the ocean where it reacted with @iron to form @BIFs 
+* This continued until all the iron in the ocean was used up, but the @phytoplankton were still producing oxygen. 
+* The extra oxygen could only go into the atmosphere.
+* The geological evidence for this is that the iron in terrestrial sediments acted as an oxygen sink → continental @Red_Beds . The red colour indicates a chemically reducing environment, but not necessarily rich in iron. Less than 1ppm of Iron is enough to turn a sediment intensely red.
+* @pyrite @uranium @conglomerates also disappear at this point, because oxygen destroys pyrite and @oxidised uranium.
+* This is when the oxygen level in the atmosphere got high enough to support more active @metabolism (see [[Mass Extinction#anaerobic-mass-extinction|Anaerobic mass extinction]]). The oxygen enabled the use of @aerobic @metabolic_pathways 
+
+Oxygen sinks included: Iron, @Carbon Uranium and @methane and each one of these is its own isolated @great_oxidation_event .
+
+=== Global cooling ===
+* There was a massive global cooling event 2.3 Ga ago.
+* All the seawater was saturated with @oxygen → the @atmosphere began to fill up and become @oxidised .
+* The atmosphere was previously made of @methane but it reacted with the new oxygen.
+* {{./equation001.png?type=equation}}
+* Methane was replaced with a **less powerful** @greenhousegas → global cooling
+
+
+
+==== Genetic causes ====
+Much of the diversity in body form among animals is associated with variations expression of @hox_genes 
+Evolution of Hox genes → variation in morphology as @embryos → diversification of animals.
+
+==== Abiogenic causes ====
+{{./pasted_image007.png?width=500}}
+* Multiple cycles of @Transgression and @Regression flooded the @continental_shelf and opened new @niches and forced evolution. 
+* See the @Hawke_Bay_Extinction_Event  📖️https://doi.org/10.1016/j.earscirev.2015.09.012
+* The fall in sea level wiped out many niches, so the species had to adapt or perish.
+
+* The increased crustal @erosion also changed the chemistry of the seawater
+* Sea level and sediment accumulation rate affected the rate of fossilisation
+* @nutrient availability
+* Cycles of @supercontinents affected the amount of continental shelf available and the amount of @eco_space 
+
+
+===== Palaeo Ecological Frame =====
+
+@brackish
+Most organisms in the @cambrian were adapted to the normal saline conditions and lived in shallow marine environments, but there were exceptions.
+{{./pasted_image002.png?width=500}} {{./pasted_image004.png?width=500}}
+@stromatolites are very adaptable. They need carbonate ions to build themselves, so are happiest in hypersaline environments away from grazing @Gastropods and other predators. They exist in fresh water, but they are **much **bigger in hypersaline environments.
+
+Modern sea water composition
+{{./pasted_image003.png}}
+
+Palaeosalinity can be measured because minerals have traces of the seawater that they crystallised in. @calcite also has @Fluid_inclusions from when it was growing.
+
+===== Eco Space =====
+@Eco_space @sessile 
+
+@Epifaunal = live on top of sediment
+@Infaunal = live **in** the sediment
+{{./pasted_image005.png?width=500}}
+'High tier' means that they live high up.
+
+
+* It was the @sessile communities which built @reefs in the Cambrian. They were resistant to @Waves and stood above other deposits.
+* @Sponges existed in the Cambrian, but @coral didn't evolve until the @Ordovician 
+* @Archaeocyathids are their own @phylum (they are not @Sponges  or a @coral ) and went extinct in the mid Cambrian.
+* This means that reef eco space wasn't being used for millions of years. Nobody knows why.
+* It is possible that the corals didn't have a {{./equation002.png?type=equation}}
+ skeleton → didn't precipitate anything.
+
+@Biostromes are bedded blanket like extensive structures built by sessile organisms. The bedding is @Lenticular (meaning alternating layers of mud and sand)
+
+@Bioherms are mounds made of the calcareous remains of oragnisms.
+
+===== Evolution of foraging strategy =====
+
+There was no @burrowing in the @Precambrian → all trace fossils are in 2D
+The Cambrian explosion saw the development of tighter meandering paths and more complex and efficient networks → evolution of BEHAVIOUR.
+{{./pasted_image006.png?width=500}}
+
+===== Conquest of new habitats =====
+The inhabitants of shallow marine environments diversified → it became too crowded → more competition → some found homes in deeper waters which were previously uninhabited.
+
+===== Importance of skeletons =====
+@Skeletons have a number of purposes:
+Support for muscles
+Locomotion
+Protection for soft internal organs
+Storage of excess minerals
+Storage of rare minerals used for @metabolism ( @phosphorus for @ATP )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

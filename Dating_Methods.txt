@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-02-21T14:25:34+00:00
+
+=== Dating Methods ===
+Created Friday 21 February 2020
+@GEOLOGY @ESH @YEAR1 
+
+@bioradiation = Huge expansion of life
+Fallout from @chernobyl can be used as a stratographic marker
+{{./image.LYE8F0.png?width=900}}
+
+**Relative dating**: how old a rock is compared to surrounding rocks
+Can use way-up criteria such as tree roots to determine which way up the rock is → know which is older @Super_Position 
+Tectonic thrust can put old on top of young
+
+@Original_Horizontiality can be tilted from tectonics and subscidence → not straight
+
+@Original_Continuity 
+@biostratigraphy 	Any evidence of past life = fossil
+
+@Antiform = structure where you don't know which way up it is
+
+@Zircon crystals have age zoning around their core
+
+**Absolute Dating:** Age in actual number of years (tree rings, growth layers in @bivalves )
+Need to understand how complete the record is , and how much time is represented in each strata.
+Lots of sediment in a short time → high resolution = @stratographic_dilution ≠ @stratographic_concentration
+

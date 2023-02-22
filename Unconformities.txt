@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-03-10T16:05:47+00:00
+
+=== Unconformities ===
+@GEOLOGY @ESH @YEAR1 
+Created Tuesday 10 March 2020
+An unconformity is a contact where the top unit is much younger than the lower.
+Contacts can be sharp, clear, or gradiational
+@unconformities indicate a major sedimentary break which could indicate a number of things:
+	* Change in the sediment supply
+	* Change in accommodation space
+	* Changes in erosion rates
+
+== Angular Unconformities ==
+Older sedimentary rocks underneath are tilted.
+Example: Grand Canyon
+{{./pasted_image.png}}
+{{./pasted_image001.png?width=600}}
+
+== Nonconformity ==
+@nonconformity 
+Where younger sedimentary rocks have been deposited on top of older @igneous or @metamorphic rocks
+{{./pasted_image002.png}}
+{{./pasted_image004.png?width=500}}
+
+== Disconformity ==
+@disconformity  
+Unconformity between parallel layers of sedimentary rocks 
+Generally indicates a shorter time interval than an unconformity
+{{./pasted_image003.png}}
+
+== Paraconformity ==
+An unconformity where the strata are parallel and there is no erosional surface between them.
+A @diastem is a minor @Paraconformity or minor interruption
+
+== Cross cutting relationships ==
+The Principle of @Cross_cutting_relationships states that any rocks are older than those cutting through them - useful for relative dating
+
+== Contacts/ Boundaries ==
+* @Contact 		Surface between different rock types
+* Conformity	Strata are unbroken and uninterrupted. A conformable contact needs material to be eroded and enough accommodation space
+* Unconformity	A significant hiatus where the strata are not continuous. Often idicates erosion but no deposition. There may be a period of non deposition even though the accommodation space exists.

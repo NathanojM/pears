@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-02-02T14:15:36+00:00
+
+====== Panspermia ======
+Created Thursday 02 February 2023
+
+* @Panspermia is the idea the life on earth came from comets
+* The start of life coincides with the heavy bombardment phase
+* Extremophiles could have survived the journey and landed on earth in a dormant state
+* Organic matter is common in space but ≠ life per se.
+* 📖️https://www.helix.northwestern.edu/2008/12/02/origin-of-life-the-panspermia-theory/
+* Can be interplanetary (within the same star system) or interstellar
+
+===== Vectors =====
+@vector 
+@Interstellar_dust 
+@asteroids 
+@comets 
+@Nomadic_planets
+Contaminated spacecraft
+
+===== Mechanisms =====
+@Radiopanspermia (propulsion via radiation pressure from stars)
+@Lithopanspermia (transported inside rocks) [Wesson, 2010]
+@Directed_panspermia (deliberate panspermia)
+@Necropanspermia (living material arrives on Earth dead but then gives rise to new life) [Wesson, 2010]
+@Pseudo_panspermia is the theory that @organic matter originated in space (now widely accepted)
+
+
+===== Amino acids =====
+@amino_acids have two @Stereoisomers : 'L' and 'D'
+
+{{./pasted_image.png}}
+* In @L_Amino_acids the @amine_group is on the left.
+* In @D_Amino_acids it is on the right. They are not converted into protein, but can be used in the @Peptidoglycan @bacteria cell wall and as a @neurotransmitter
+
+===== Evidence =====
+The first signs of life on Earth (the @apex_chert ) are about as old as the @bombardment_phase → the timing is right for life to have been brought to earth then.
+@Impact_frustration is the theory that life on earth would have started earlier if it had not been interrupted by @asteroids impacts.
+
+The @Alan_Hills_Meteorite from Mars in 1996 had things in it which looked like microfossils, but were actually just contaminants 
+https://en.wikipedia.org/wiki/Allan_Hills_84001
+{{./pasted_image001.png?width=500}}

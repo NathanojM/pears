@@ -1,0 +1,53 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-01-31T14:09:02+00:00
+
+====== RNA vs DNA ======
+Created Tuesday 31 January 2023
+@GEOLOGY @paleontology  @YEAR4
+
+| Difference type | RNA                             | DNA                     |   |
+|:----------------|:--------------------------------|:------------------------|:--|
+| Structure       | Single strand                   | Double strand           |   |
+| Function        | Stores info and self replicates | Only stores information |   |
+| Composition     | Uracil                          | Thymine                 |   |
+| Composition     | Ribose                          | Deoxyribose             |   |
+
+
+{{./pasted_image001.png}}
+The @RNA world came before the @DNA world
+Nobody has ever observed the transition from inanimate to living material.
+
+
+There are 3 hypotheses for the evolution of viruses:
+
+===== Hypothesis 1 =====
+@Virus_first_hypothesis 
+@Viruses are not technically alive, but they are hypothesised to fit here in the @tree_of_life as an intermediate step between inanimate and living things.
+{{./diagram.png?type=diagram}}
+
+===== Hypothesis 2 =====
+The @Degeneracy_hypothesis
+Viruses need to hijack cells to survive → if viruses fit here, they must have evolved after cellular life, because otherwise there would have been no cells to attack. The hypothesis says that viruses @devolved from larger @parasite cells 
+
+===== Hypothesis 3 =====
+@Escape_hypothesis 
+Viruses evolved from genetic material which escaped from bigger organisms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-08-12T10:32:03+01:00
+
+=== Chronostratigraphy ===
+Created Wednesday 12 August 2020
+@GEOLOGY @ESH @YEAR1 
+
+@Chronostratigraphy = establishing time relationships, as an integration of the following:
+	* @biostratigraphy = fossil rocord, @law_of_faunal_succession . Rarely, @fossils can survive @metamorphic processes 
+	* @Magnetostratigraphy = magnetic properties of rocks
+	* @Allostratigraphy = rock units defined by @unconformities and features resulting from changes in base level (where erosion and deposition are in equilibrium, either on a global scale (the sea) or a local scale (local). 	@depositional_base_layer 
+	* @Geochronology =Determining absolute rock ages from @Isotope @geochemistry or @radiometric_dating 
+
+== Assumptions and limitations ==
+@Milankovitch 
+@eccentricity is assumed to have always been the same because of the distance between the earth and the @sun 
+@Obliquity changes because the moon was closer to earth during the cambrian, but is now moving away
+
+Elements decay into other elements → many don't survive @radioactive_decay 

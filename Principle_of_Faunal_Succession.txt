@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-03-10T15:35:48+00:00
+
+=== Principle of Faunal Succession ===
+Created Tuesday 10 March 2020
+@GEOLOGY @ESH @YEAR1 
+
+* Every species goes extinct eventually
+* @Index_Fossils are @fossils of organisms that lived for a very short amount of time → useful for correlation between continents because land organisms couldn't cross oceans. Based on the @law_of_faunal_succession
+* the presence of the same fossil means that the rocks are the same age
+
+Fossils can be seuqneced in time order
+The @biostratigraphy gives us relative ages of the fossils and the rocks → @Lithostratigraphy
+
+The last appearance datum is the point at which the fossil stops appearing in the record
+Using the First and last @appearance_datum at each locality, their time periods can be calculated
+Barren shales have no index fossils → they can't be dated with biostratigraphy → must rely on lithostratigraphy 

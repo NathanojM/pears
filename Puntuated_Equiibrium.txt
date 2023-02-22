@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-01-31T16:00:18+00:00
+
+====== Puntuated Equiibrium ======
+Created Tuesday 31 January 2023
+@GEOLOGY @paleontology  @YEAR4
+
+@Punctuated_equilibrium is a theory that a species, once established, will become stable and not change very much in its geological history, until rare and rapid geological events.

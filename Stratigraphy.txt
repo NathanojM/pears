@@ -1,0 +1,108 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-02-06T13:51:02+00:00
+
+=== Stratigraphy ===
+Created Thursday 06 February 2020
+@GEOLOGY @ESH @YEAR1 
+
+* Historically, @stratigraphy was conducted using sedimentary rocks in a very informal fashion, where any one formation could be called anything by different people, which is why the names are standardised today by the international stratigraphy commission (it's the same logic as naming species in latin).
+* Modern stratigraphy has more precision (up to 20 Ka) and the ability to study regional basin patterns and correlation between basins, as well as deep sea mining.
+* The geological @time scale is an artificial division
+
+== Rock Record Subdivision ==
+* @Lithostratigraphy has no connection to time, apart from the superposition of strata. It is the study, analysis and interpretation of sequences of layered rocks based on **physical **characteristscs.
+* Lithology can also refer to the characteristics themselves: limestone lithologies, or sciliclastic lithologies, for example.
+* The sum of all these physical chatacteristics then makes up @lithology
+* A @Stratotype is a formally designated unit of rock type in outcrops, mines, and boreholes ≠ a @lithosome which is an informal designation for a mass of rock with uniform characer.
+
+== Use of Lithostratigarphy ==
+* Put the rock into a broader contextual framework of what's around, above and below it
+* Correlate between other units
+
+== Lithostratographic Units ==
+Supergroup
+	Group
+		__Formation__ (at least one @lithosome)
+			Member
+				Bedset
+					Bed
+
+
+== Chronostratigraphy: ==
+* @Chronostratigraphy = establishing time relationships amoung geological units
+{{./pasted_image.png?width=1000}}
+@biostratigraphy is progessive and only goes one way, with a focus on Darwinian evolution
+
+== History ==
+@history 
+**Greeks and Romans:**
+Believed that the world was always dynamic, changing, and etnernal
+
+F**all of Rome and Rise of the Church:**
+@God 
+* The world was understood by a literal interpretation of the bible.  It was believed that shells had been washed there by 'The' flood
+* Anyone who said anything on the contrary would be burned at the steak
+
+**Renaissance and Age of Reason:**
+* Development of proper scientific principles
+* @Da_Vinci suggested that shells were brought down from the alps by rivers, and proposed the process of @lithification and uplift long before @W_M_Davis
+* In 1500, Da Vinci first supposes that @fossils are ancient marine life ≠ non-biogenic origin, and that fossileferous strata are separated by unfossilerferous layers → fossils are deposited by seasonal events/ processes that repeat cyclicly ≠ Noah's Flood
+
+**Nicholaus Steno (1638-1686):**
+* @Nicholaus_Steno first __published__ that fossils were once soft bodied → sedimentation and @lithification
+* What were believed to be petrified snake/ dragon teeth turned out to be fossilised ancient shark teeth.
+
+Created @Stenos_Laws, which were later derailed by @neptunism 
+1. @Original_Horizontiality:strata perpendicular or inclined to the horizon were once parallel to it.  Strata deformed by volacnism or uplift, for example.
+2. @Original_Continuity: Strata material is continuous over the surface ≠ big blobs unless somehing else is in the way (some physical barrier such as a @Fault ). The same logic that allows us to connect mountain ranges and fossils to prove continental drift
+3. @Super_Position: Older material is at the bottom ≠ younger material at top, unless the rocks are upside down
+
+**Giovani Ardunio **
+@Giovani_Ardino ordered the same rocks into 4 age groups
+	Primary:		Granite, schists, basalt
+	Secondary:	Limestone, shale, sedimentary rocks
+	Tertiary:		Fossils, sedimentary rocks in hills
+
+But this would imply that all granites and limestones are the same age, which is not globally applicable → these groups were scrapped:
+
+	__Primary → Basements__
+	__Secondary → 🚮️__
+	__Tertiary →  🚮️ (but only ~10 years ago)__
+	__Quarternary → we still have it on the stratigraphic chart.__
+	
+
+**Abraham_Gottlob_Werner**
+@Abraham_Gottlob_Werner was a devout neptunist
+
+**James Hutton**
+@James_Hutton promoted @uniformitarianism and said that there was no beginning or end to the world, as well as rejecting @divine_intervention from @God 
+
+**Charles Lyell**
+@Charles_Lyell was an actualist ≠ gradualist
+@Actualism is like @uniformitarianism (natural laws and processes have always been the same)
+@Gradualism means that **rates of change** are uniform, which doesn't work because the world is dynamic and the sedimentation rate today ≠ the precambrian
+
+**William Smith**
+The father of @biostratigraphy 
+@William_Smith analysed rocks in mines and canals during the @industrial_revolution and used fossils to calculate the **relative** ages of the strata and match up ages between rocks in different places, using the @law_of_faunal_succession (that same fossils = same age)
+
+
+**Georges Cuvier**
+@Georges_Cuvier found the LOFS⬆️ Independently from William Smith but used it for @evolution instead
+Wronly stated that the same fossils can only be found in the same rock, which is untrue because @facies change
+First to suggest that there had been more than one @mass_extinction 
+
+**Alexandre Brongniart**
+@Alexandre_Brongniart founded the idea of strata and lithology:
+	* Order and @super_position
+	* @Fossils
+	* Shapes
+	* Colours
+	* Textures
+Made a geological map of the Paris basin.
+
+
+
+
+

@@ -1,0 +1,79 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-04-05T12:55:24+01:00
+
+=== Mesozoic Cenozoic Stratigraphy ===
+Created Sunday 05 April 2020
+@GEOLOGY @ESH  @YEAR1 
+
+The @Triassic comes from the German 3 part rock division called 'Trias'
+Split into :
+	* Bunter - Sandstone
+	* Muschelkalk - Limestone
+	* @Keuper  - Calcareous Mudstone
+
+@Bunter and @Muschelkalk formed on land →  no fossils
+Muschelkalk didn't spread far → hard to make correlations
+
+== Mass Extinctions ==
+@mass_extinction 
+{{./image.D3YTI0.png?width=400}}
+* The end of the @permian  began with a huge drop in the diversity of life.
+* It is believed that there was no one single cause of the @permian_extinction but a sequence of many causes building up to the extinction. 	@gradualism
+This included:
+	* Formation of @pangaea → loss of habitats in shallow marine environments
+	* Siberian Traps (one of the biggest @volcanoes eruption ever)
+
+The Triassic then saw a huge diversification of of plants and animals, including the first mammals and @dinosaurs
+2 families of @amonites survived, diversified, and became widespread because they were 
+	* @Pelagic (meaning in the open sea)
+	* Evolving and adapting fast
+	* Independent from their environment
+
+====== Paleogeography ======
+2 rifts on Pangaea created @Laurasia @Gondwanaland and @Eurasia  
+{{./pasted_image.png}}
+
+Continental rifting creates accommodation space to be filled with stratigraphy
+The North Sea basin was filled with oil and gas, ready to be expolited.
+{{./pasted_image001.png}}
+
+== Red Beds ==
+Triassic @Red_Beds were very common on Pangaea and were deposited in arid deserts. The red rocks are either Triassic or Devonian
+
+Triassic = New Red Sandstone
+Devonian = Old Red Sandstone
+{{./image.Q5JHI0.png?width=400}}
+
+== In Britain ==
+{{./pasted_image002.png}}
+Y shape of Triassic outcrops in 3 groups:
+| Group              | Age      | Lithologies                           | Features                                     | Depositional Environment                      | Thickness       | Upper boundary   | Lower Boundary                  | Notes                      |
+|:-------------------|:---------|:--------------------------------------|:---------------------------------------------|:----------------------------------------------|:----------------|:-----------------|:--------------------------------|:---------------------------|
+| Penarth            | Rheatian | Limestone/ shales                     |                                              | Transition from continental to shallow marine | Thinnest        |                  |                                 | Blue Anchor Bay (Somerset) |
+| Mercia Mudstone    |          | Fine mud/ silt overpowering sandstone | Gypsum/ anhydrite/ seawater evaporite layers | Red brown beds from inland deserts            |                 |                  |                                 |                            |
+| Sherwood Sandstone | Oldest   | Red/ brown sandstone                  | Pebble Bands                                 | Fluvial                                       | Max 1.5 km var. | Permian-Triassic | Transitional. so hard to define |                            |
+|                    |          |                                       |                                              |                                               |                 |                  |                                 |                            |
+|                    |          |                                       |                                              |                                               |                 |                  |                                 |                            |
+|                    |          |                                       |                                              |                                               |                 |                  |                                 |                            |
+
+
+White layers ofevaporated seawater ⬇️
+{{./pasted_image003.png?width=300}}
+
+Red = continental
+Green = marine
+{{./image.HVFKI0.png}}
+
+
+====== Jurassic ======
+Named after the Jura Mountains between France and Switzerland
+Dominated by dinosaurs
+Ferns diversify
+@amonites 
+Ocean ridges developed in the middle Jurassic
+
+Rifting → lots of marine deposition:
+{{./pasted_image004.png?width=400}}{{./pasted_image005.png?width=400}}{{./pasted_image006.png?width=400}}{{./pasted_image007.png?width=400}}
+
+

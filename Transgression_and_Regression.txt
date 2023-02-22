@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-08-25T17:27:59+01:00
+
+=== Transgression and Regression ===
+Created Tuesday 25 August 2020
+@GEOLOGY @ESH @sea_level @YEAR1 
+
+
+@Transgression = rise in @relative_sea_level 	
+@Regression  = fall in relative sea level
+
+Relative sea level (local) ≠ @eustatic_change (global)
+
+
+== Transgression & Regression on Facies development ==
+
+Imformation is split into 2 groups: @induction_base and @deductive_base 	@Inductive @deductive 
+Indiction = the hardcore data or observed evidence
+Deductive = the interpretation of the data
+

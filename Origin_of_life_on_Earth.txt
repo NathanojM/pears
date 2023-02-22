@@ -1,0 +1,106 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2020-01-30T16:05:37+00:00
+
+=== Origin of life on Earth ===
+Created Thursday 30 January 2020
+@GEOLOGY @ESH @YEAR1 
+
+'Where did life come from is one of the most fundamental issues,f ever.  Is it unique? How common is life?
+There is no straightforward answer to how life emerged from dead things.
+
+The @scientific_method means that we can't ever actually prove anything, but only disprove.
+
+Time on Earth is divided into two major sections: the @Precambrian  and the @phanerozoic 
+Phanerozoic is greek for 'visible life' ≠ @Cryptozoic  (an old name for the Precambrian ) meaning 'hidden life'
+The Precambrian accounts for 75%+ of the whole 4.5 Ga
+{{./pasted_image006.png}}
+
+== Panspermia ==
+See [[Panspermia]]
+
+== Prebiotic Processes/ Chemosynthesis ==
+There was no free oxygen in atmosphere when life began, creating a @reducing_environment, which is what may have allowed it to form.
+Oxygen would have created an oxidising environment and instantly broken down any biological molecules.
+
+== The early atmosphere ==
+@atmosphere high in:
+* @methane
+* @ammonia
+* @hydrogen
+* @nitrogen
+* {{./equation.png?type=equation}}
+* liquid and vaporised water, which may have been brought to Earth by @comets 
+* These gases probably came from @volcanoes 
+* Mixed together, they became the @primordial_soup 
+
+
+There were no higher molecules such as carbohydrates. Also no @oxygen in the atmosphere or ocean → highly @reducing_environment 
+
+== Forming organic molecules ==
+* The @Miller_Urey experiment recreated the original atmosphere
+* They dissolved Hydrogen, Nitrogen, Ammonia, and {{./equation001.png?type=equation}}
+ in liquid and vapourised water and  exposed it to simulated lightning strikes.
+* The transparaent liquid turned yellow/ brown and organic molecules were found, including cyanides, glycine and @glutamic_acid (required for @Sugar_Synthesis )
+* The @organic molecules were formed without life. The synthesis of these molecules from @primordial_soup is called @prebiotic_evolution or @Chemosynthesis 
+* Organic matter has been found in meteors, but meteorites that have fallen to Earth are contaminated with Earth life.
+{{./pasted_image004.png}}
+
+== What are we looking for? ==
+🎞️https://youtu.be/QOCaacO8wus
+
+One of the major problems when searching for life elsewhere in the universe is defining what life actually is, and we need to know what we're looking for.
+We understand  life to:
+	* Self replicate
+	* Grow
+	* Have @metabolism (Consume energy from its environment and produce waste)
+	* Avoid decay into equilibrium (defined by @Schrödinger)
+	* Be Subject to evolution
+	* Interact with its environment
+	* Move
+	* Be able to be killed (although this is a tautology)
+	* Do @homeostatis (the ability to regulate its own internal environment)
+But there are exceptions to  all of these:
+	* Bubbles in the washing machine replicate, but are not alive
+	* @Unicellular_life doesn't really grow
+	* A fridge can regulate its own environment
+
+	* All molecules try to fall into the lowest energy state possible, which would mean death → life fights against this an tries to put energy into the system:
+	{{./pasted_image001.png?width=400}}
+	However, this can be achieved without being alive through endo and exothermic reactions.
+
+Life somewhere else in the universe might be very different to that on Earth, and we don't really know what we're looking for.
+Looking for @RuBisCo on @mars suggests that it evolved on Earth and Mars - very unlikely.
+
+===== Prebiotic processes =====
+
+== Sugar Synthesis ==
+@Sugar_Synthesis 
+Sugars can store and release energy without being alive:
+The condensation reaction releases water, storing energy in the @oxygen_bridge , which is released when water is added.  This happens without being alive.
+{{./pasted_image007.png}}
+
+
+== Lipids ==
+Biochemical reactions cannot happen if the reactants are not in close proximity to each other.
+Life needs a container - something to separate it from its environment.
+Life is contained within cell walls or cell membranes to make sure that the reactants do actually meet.
+@Lipid molecules spontaneously organise themselves into structures
+
+{{./pasted_image008.png}}
+@micelles form spontaneously 
+
+ @Lipid s  will settle out into a monolayer, but this is unstable because it can be immediately cracked by water
+{{./pasted_image003.png}}
+	→ organised into a stable @Phospholipid_bilayer  which can't be dissolved by water and is a discrete and finite space for biochemical reactions to happen.
+	Molecules have to come into contact to react → @cell_membranes enable biochemical reactions to happen.
+	
+
+== Sequence of Life ==
+{{./diagram.png?type=diagram}}
+@RNA is more stable than @DNA
+It contains Uracil instead of Thymine
+It's oxy
+DNA can't replicate ≠ RNA → RNA acts as an enzyme as well as information storage.
+
+
